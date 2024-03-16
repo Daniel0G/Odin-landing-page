@@ -231,3 +231,12 @@ a {
     text-decoration: none;
     color: #f9faf8;
 }
+.container-6 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 150px;
+    width: auto;
+    background: #1f2937;
+    font-size: 15px;
+}
